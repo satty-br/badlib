@@ -22,5 +22,8 @@ Conclusion
 By following these steps and best practices, you can utilize "badlib" in a secure and controlled manner within your Spring Boot project. Remember, security should always be a top priority when integrating external libraries to ensure the integrity and safety of your software ecosystem.
 
 
+TODO:
+TEST 
+
 
 vær ærlig, gjør det rette selv om andre ikke er det
